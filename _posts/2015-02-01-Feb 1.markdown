@@ -1,6 +1,15 @@
 ---
 layout: post
-title:  "2015-02-01"
+title:  "Welcome"
 date:   2015-02-01 16:14:44
 ---
-Testing 123
+Welcome to my new blog inspired by [John][http://john.do/today/]. It is a collection of things I learn each day for personal use.
+
+Things Learned Today:
+*How to create a blog with [Jekyll][http://jekyllrb.com/docs/posts/] and how to host said blog on GitHub Pages.
+**Needed to create a new repo, install jekyll there, and branch gh-pages. This took too long to figure out.
+**Will need to both build and commit (to correct branch) with each post.
+*How to use Build System in Sublime Text, configured with Chrome to replace View in Browser package.
+*From [patio11][http://www.kalzumeus.com/2015/01/28/design-and-implementation-of-csvexcel-upload-for-saas/]:
+**Sheet.js is a pretty cool way to make .csv imports easy.
+**OSS projects should have commercial license fees instead of donations.

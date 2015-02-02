@@ -2,7 +2,7 @@
 title: My Thoughts
 email: cardern@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a blog about what I (Colin Ardern) learn on a daily basis.
+  This is a blog about what I learn on a daily basis. It is for myself but you can read it too if you want.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://colin.im" # the base hostname & protocol for your site
 twitter_username: cardern
