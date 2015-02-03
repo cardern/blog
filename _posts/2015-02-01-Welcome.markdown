@@ -5,7 +5,7 @@ date:   2015-02-01 16:14:44
 ---
 Welcome to my new blog inspired by [John](http://john.do/today/). It is a collection of things I learn each day for personal use.
 
-Things Learned Today:
+Things learned today:
 
 - How to create a blog with [Jekyll](http://jekyllrb.com/docs/posts/) and how to host said blog on GitHub Pages.
   - Needed to create a new repo, install jekyll there, and create a new branch (gh-pages).

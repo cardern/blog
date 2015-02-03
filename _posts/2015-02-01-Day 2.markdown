@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 2"
+date:   2015-02-02
+---
+Things learned today:
+
+* From [minimaxir's](http://minimaxir.com/2014/09/buzzscrape/) blog post:
+	* [Kimono Labs](https://www.kimonolabs.com/) offers a nice option to make web scraping easier.
+	* In the case of BuzzFeed, it was unusable because of a 10-page archive limit. 
+	* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) with [Mechanize](http://wwwsearch.sourceforge.net/mechanize/) is a more flexible option. ([Guide](http://swizec.com/blog/scraping-with-mechanize-and-beautifulsoup/swizec/5039))
