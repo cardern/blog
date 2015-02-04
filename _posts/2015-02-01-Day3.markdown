@@ -13,6 +13,7 @@ Things learned today:
 	* Learned how to remove file extensions from a [URL](http://jekyllrb.com/docs/pages/#named-folders-containing-index-html-files) (Stick multiple index.html files into folders).
 	* Based on [Josh's](http://joshualande.com/jekyll-github-pages-poole/) design, created an archive page and added Google Analytics.
 	* Also followed his [advice](http://joshualande.com/short-urls-jekyll/) to shorten blog post URLs ([Jekyll docs](http://jekyllrb.com/docs/permalinks/)).
+	* Modified index.html to display content of posts on the front page because I like it more.
 * Found a subreddit on [body language](http://www.reddit.com/r/bodylanguage/). Interesting techniques:
 	* Using rapport tests such as glancing at watch or touching hair. Mirroring gestures for rapport.
 	* Diffusing dominance respectfully by circling behind speaker to change the subject.
