@@ -10,3 +10,4 @@ github_username:  cardern
 
 # Build settings
 markdown: kramdown
+permalink: "/:title"

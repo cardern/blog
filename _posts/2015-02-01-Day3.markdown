@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Day 3"
+date:   2015-02-03
+---
+Things learned today:
+
+* Playing around with [Quantopian](https://www.quantopian.com/help) for next month's contest.
+	* Using fetcher for live trading is difficult, and doubly so for the contest. You need a pre-function to adjust the start date on the CSV, otherwise it will only work in either backtests or live trading.
+	* It is possible to create an algo based on a data feed from [Quandl](https://www.quandl.com/about).
+* Exploring the possibilities of Jekyll some more.
+	* Customized the footer, learned about layouts (HTML templates in the _layouts folder).
+	* Learned how to remove file extensions from a [URL](http://jekyllrb.com/docs/pages/#named-folders-containing-index-html-files) (Stick multiple index.html files into folders).
+	* Based on [Josh's](http://joshualande.com/jekyll-github-pages-poole/) design, created an archive page and added Google Analytics.
+	* Also followed his [advice](http://joshualande.com/short-urls-jekyll/) to shorten blog post URLs ([Jekyll docs](http://jekyllrb.com/docs/permalinks/)).
+* Found a subreddit on [body language](http://www.reddit.com/r/bodylanguage/). Interesting techniques:
+	* Using rapport tests such as glancing at watch or touching hair. Mirroring gestures for rapport.
+	* Diffusing dominance respectfully by circling behind speaker to change the subject.
+	* Infographic on [psychological space](http://i.imgur.com/HXvXG.jpg), sharing object of attention to build rapport.
+	* Book recommendation: [What Every Body is Saying](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)
+* Reading about the life of [JSG Boggs](http://en.wikipedia.org/wiki/J._S._G._Boggs), an artist who creates counterfeit bank notes as art.
+	* A historical and more fraudulent comparison is [Emmanuel Ninger](http://en.wikipedia.org/wiki/Emanuel_Ninger).
+	* Art appraisals are generally not worthwhile unless it is a large value. [Bonham's](http://www.bonhams.com/how_to_sell/9882/) offers free appraisals. Otherwise look for galleries selling comparable art pieces.
+* Enable [spell check](https://coderwall.com/p/j3tjtq/spell-check-for-markdown-in-sublime-text) for markdown in Sublime Text.
