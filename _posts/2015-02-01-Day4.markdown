@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Day 4"
+date:   2015-02-04
+---
+Things learned today:
+
+* Not too much to include today. On watches:
+	* Need a spring bar tool or a small flathead screwdriver to remove a strap.
+	* End pieces are little metal flaps that cause a flush finish. They make it hard to remove a spring bar.
+	* Never try to undo the middle part of a metal band because you won't get it back together.
+* BeautifulSoup: Easy to use, example script to retrieve URLs below.
+<br><br>
+{%highlight python%}
+from bs4 import BeautifulSoup
+import requests
+
+url = raw_input("Enter a website for extraction: ")
+r  = requests.get("http://" +url)
+
+data = r.text
+soup = BeautifulSoup(data)
+
+for link in soup.find_all('a'):
+    print(link.get('href'))
+{%endhighlight%}
