@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Day 5"
+date:   2015-02-07
+---
+Things learned today:
+
+\_______________
+
+<b>HN 238</b>
+
+ * [Authentication cheat sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
+	* Some suggestions are probably not best practice, such as enforcing password complexity and generic error messages when username/password is incorrect. 
+* The HTML5 [download attribute](http://svarden.se/blog/2013-04-22-right-click-and-save-as) seems pretty handy.
+* [Meteor.js](http://joshowens.me/getting-started-with-meteor-js/) intro, and some nice [D3.js](http://www.taucharts.com/) charts.
+* UIs with [interface previews](http://www.callumhart.com/blog/non-blocking-uis-with-interface-previews) are awesome because users can begin doing stuff that is not reliant on the server. You can take this to different levels: Showing page layout vs. creating placeholder elements/text.
+* Cool article on [National Geo maps](http://news-beta.nationalgeographic.com/2015/01/150123-maps-mapping-cartography-history-national-geographic-centennial/).
+
+\_______________
+
+* Markdown requires multiple line breaks between bulleted lists and other text. 
+* [Neat tool](https://oj.leetcode.com/) to help prepare for technical interviews.
