@@ -20,3 +20,28 @@ Things learned today:
 
 * Markdown requires multiple line breaks between bulleted lists and other text. 
 * [Neat tool](https://oj.leetcode.com/) to help prepare for technical interviews.
+* BeautifulSoup: find_all() can be [removed](http://www.crummy.com/software/BeautifulSoup/bs4/doc/#calling-a-tag-is-like-calling-find-all) and will function the same. Script from today below.
+<br><br>
+{%highlight python%}
+from bs4 import BeautifulSoup
+import requests
+
+url="xxx"
+second="/yyy/"
+pagenum=0
+while pagenum<100:
+	finalurl=url+second+str(pagenum)
+	pagenum+=10
+	r  = requests.get(finalurl)
+	soup = BeautifulSoup(r.text)
+	content=soup.body
+	for sections in content('section'):
+		if sections.get('id')=="product-index":
+			for link in sections('a','product-thumbnail'):
+				print url+link.get('href')
+{%endhighlight%}
+
+* [Scrapy](http://doc.scrapy.org/en/latest/intro/tutorial.html) is another scraping tool, more fully featured than BeautifulSoup.
+* Bash aliases need to be defined in ~/.bash_profile, otherwise they are local to the session.
+* When using GitHub Pages with Jekyll, it's easiest to pass an [empty string](http://jekyllrb.com/docs/github-pages/) to the --baseurl option if you want to see changes locally. Putting single quotes in a bash alias is a little [rough](http://stackoverflow.com/questions/1250079/escaping-single-quotes-within-single-quoted-strings).
+* It is easy to be abrupt but better to be understanding.
