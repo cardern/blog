@@ -44,4 +44,5 @@ while pagenum<100:
 * [Scrapy](http://doc.scrapy.org/en/latest/intro/tutorial.html) is another scraping tool, more fully featured than BeautifulSoup.
 * Bash aliases need to be defined in ~/.bash_profile, otherwise they are local to the session.
 * When using GitHub Pages with Jekyll, it's easiest to pass an [empty string](http://jekyllrb.com/docs/github-pages/) to the --baseurl option if you want to see changes locally. Putting single quotes in a bash alias is a little [rough](http://stackoverflow.com/questions/1250079/escaping-single-quotes-within-single-quoted-strings).
-* It is easy to be abrupt but better to be understanding.
+* It is easy to be abrupt but better to be understanding. 
+* Basic pains are still part of the lived experience. We still feel the burn of an arrow if it shoots us in our leg, but mindfully accepting that event just avoids all the extra mental pains we add by going crazy when all we can do is our [best](http://www.reddit.com/r/Meditation/comments/2uh7gb/why_is_mindfulness_better_than_escapism/co8k75v).

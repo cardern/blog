@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 6"
+date:   2015-02-14
+---
+Things learned today:
+
+* Internet is slow. Time to figure out why.
+	* [MTR](https://www.linode.com/docs/networking/diagnosing-network-issues-with-mtr) is a nice ping/traceroute utility to help diagnose latency [issues](http://networkengineering.stackexchange.com/questions/780/what-would-cause-high-latency-anytime-there-is-traffic-on-wan).
+	* OS X doesn't use apt-get as a package manager. To install MTR, use ```brew install mtr```.
+	* To edit $PATH for one user, you can add to .bash_profile](http://hathaway.cc/post/69201163472/how-to-edit-your-path-environment-variables-on-mac). Use nano or vim (not TextEdit) because of quotation problems.
+	* Looking at the SonicWall AppFlow monitor, I have significant packet loss (>50%) only when AWS S3 traffic originates from local IP 192.168.168.143. Using [ARP](http://security.stackexchange.com/questions/64281/how-to-get-mac-address-via-ip) I should be able to get the MAC address and then determine the device.
+	* ```arp 192.168.168.143``` gives the MAC address. Completing a vendor lookup for this MAC address shows that the vendor is Apple.
+* Working with [d3](http://d3js.org/), put up a new project page at [colin.im/d3experiments/](colin.im/d3experiments/).
+* Highlight code inline via [Redcarpet](https://github.com/blog/832) by surrounding the code with ```.
+* A popular alternative to Jekyll is [Nanoc](http://nanoc.ws/).
