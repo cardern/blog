@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Random Walk on Wikipedia"
+date:   2015-02-16
+---
+Things learned today:
+
+* A walk on Wikipedia prompted by [this](https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2) article on important web breakthroughs.
+	* [Memcached](https://code.google.com/p/memcached/wiki/NewStart) is a distributed memory object caching system. It requires both client and server side software, and seems a little similar to hybrid [RAID storage](http://en.wikipedia.org/wiki/Nested_RAID_levels) to me in that it is distributed and focuses on improving performance through better storage utilization.
+	* [MapReduce](http://en.wikipedia.org/wiki/MapReduce) is a programming model (like OOP or functional programming) developed by Google and used as a basis for Hadoop.
+	* [MongoDB](http://en.wikipedia.org/wiki/MongoDB) essentially uses JSON documents instead of traditional SQL - this is the most popular example of a NoSQL (Not only SQL) database.

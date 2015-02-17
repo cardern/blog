@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 3"
+title:  "Quantopian, Jekyll, Boggs, and Body Language"
 date:   2015-02-03
 ---
 Things learned today:
