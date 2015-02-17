@@ -12,4 +12,4 @@ github_username:  cardern
 markdown: kramdown
 permalink: "/:title"
 paginate: 5
-paginate_path: "blog/page:num/"
+paginate_path: "page:num/"
