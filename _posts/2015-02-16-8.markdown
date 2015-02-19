@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "PowerShell"
+date:   2015-02-18
+---
+Things learned today:
+
+* Started a course on [PowerShell](http://www.microsoftvirtualacademy.com/training-courses/getting-started-with-powershell-3-0-jump-start) to learn what it's all about. 
+	* Functions based on cmdlets which follow a verb-noun format. The name was chosen primarily for SEO reasons.
+	* Typically want to run as administrator to accomplish everything.
+	* Has an extensive library of aliases, including standard Unix (ls,mkdir) accessed via 'gal'
+	* Alias naming schema is standard and can be searched via wildcards. Ex: 'gal cl*'
+	* Bash was not effective on Windows because Unix is a document oriented OS while Windows is API oriented.
+		* The Unix tools (awk,sed,grep) were not helpful beyond text manipulation
