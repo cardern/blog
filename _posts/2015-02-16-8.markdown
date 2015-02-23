@@ -12,3 +12,4 @@ Things learned today:
 	* Alias naming schema is standard and can be searched via wildcards. Ex: 'gal cl*'
 	* Bash was not effective on Windows because Unix is a document oriented OS while Windows is API oriented.
 		* The Unix tools (awk,sed,grep) were not helpful beyond text manipulation
+	* help is pretty robust, and in V3 you can update-help.

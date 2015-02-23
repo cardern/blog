@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Putting on a Watch"
+date:   2015-02-23
+---
+Things learned today:
+
+* How to [put on a watch](https://www.youtube.com/watch?v=VSEjmLzayFI). It was a very productive day, I know.
+	* Ocho85cincofan96 also learned how, and says "thank u!!!!!1".
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch1.md)- a series of books on Javascript, starting with one on mastery of prototypes.
+* An interesting look at how a [spambot](https://twitter.com/renaudbedard/status/567827024775127040) works. They will post on many random blogs to establish backlinks (although this is not very effective any more).
+* Cool analysis of [Lego's](http://joshsummers.co.uk/2015/02/16/Lego-1981-Beautiful-Advert) 1981 ad campaign.
+* [Canned emails](https://news.ycombinator.com/item?id=9048414&utm_term=comment) for almost every occasion (breaking up? look here first!)
+* Tips on [keeping a change log](http://keepachangelog.com/). 
+* Slick [CSS icon](https://news.ycombinator.com/item?id=9047086&utm_term=comment) project.
+* Sci fi book [recommendations](https://news.ycombinator.com/item?id=9056319).
+* Did some research on payment models for freelance bloggers. It seems like a lot of major blogs (Buzzfeed, Ars Technica, Vice, Engadget) have full time staff writers and do not have a defined process for freelancers. They have Tips email addresses and I assume sometimes reach out based on this. Gawker pays $7/10k views which typically works out to around $50/day, Lifehacker pays by the day.
