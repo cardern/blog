@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Word Realms"
+date:   2015-02-26
+---
+Things learned today:
+
+* Ben Schwartz would be well cast as the judge in Blood Meridian.
+* Playing Word Realms today, here are some thoughts:
+	* The graphical style does not seem polished enough for a standalone game.
+	* There is not enough guidance to continue to adventure in old zones once the quest marker tells you to move on, yet this is almost essential to gear up enough to progress.
+	* The phrases that your character says while attacking is a highlight of the game for me.
+	* The main ending is pretty messed up. There's one viable trinket for warriors, crafting feels underdeveloped.
+
+* [Redis](http://try.redis.io/) is:
+	* A key-value cache and store. 
+	* A data structure server.
+	* One type of NoSQL database.
+	* Better than [MongoDB](http://try.mongodb.org/) for software where [performance](http://stackoverflow.com/questions/5400163/when-to-redis-when-to-mongodb) is important and you already know how you want to query your data.
+* [MongoDB training](https://university.mongodb.com/) available here.
