@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Birthday"
+date:   2015-02-28
+---
+Things learned today:
+
+* The best way to come up with a [startup idea](http://www.defmacro.org/2015/02/25/startup-ideas.html) - How is the world changing and what can I do about it?
+* [Harry Potter and the Methods of Rationality](http://hpmor.com/)
+* [Getting Started with Flux](http://ryanclark.me/getting-started-with-flux)
