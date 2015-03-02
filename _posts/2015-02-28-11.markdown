@@ -6,5 +6,20 @@ date:   2015-02-28
 Things learned today:
 
 * The best way to come up with a [startup idea](http://www.defmacro.org/2015/02/25/startup-ideas.html) - How is the world changing and what can I do about it?
+* Old people's voices [sound different](http://www.reddit.com/r/askscience/comments/218i35/why_do_old_peoples_voices_sound_distinctly/) because of changes in hormone levels, physiological changes in muscles that affect vocal cords, smoking, and chronic dehydration. This is called presbyphonia.
+* Don't agree to something because it is distant.
 * [Harry Potter and the Methods of Rationality](http://hpmor.com/)
 * [Getting Started with Flux](http://ryanclark.me/getting-started-with-flux)
+* [Contributing to Chromium](http://meowni.ca/posts/chromium-101/)
+* [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+* [SVG Animation](http://maxwellito.github.io/vivus/)
+* [Lessons in Becoming Great](https://news.ycombinator.com/item?id=9112441)
+	* Persistence is a key to succeeding creatively
+	* Find people doing cool stuff and help them out
+* Resources for learning Scala
+	* Coursera - [Functional Programming in Scala](https://www.coursera.org/course/progfun)
+	* Twitter's [Scala School](http://twitter.github.io/scala_school/)
+* Putting name into top of terminal - [ASCII Generator](http://patorjk.com/software/taag/#p=display&f=Sub-Zero&t=Colin)
+	* Favorites: Slant Relief, Sub-Zero, Twisted, 3D-ASCII, Block, Broadway, Colossal, Fractur, NV Script, Roman, X992
+	* Use the Test All button to see them all at the same time. Winner is Colossal.
+	* Message is stored in /etc/motd.
