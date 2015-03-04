@@ -8,7 +8,9 @@ Things learned today:
 * More on Powershell from [Microsoft's training course](http://www.microsoftvirtualacademy.com/training-courses/getting-started-with-powershell-3-0-jump-start):
 	* You can use Powershell for remote servers on mobile devices using Powershell Web Application.
 	* The reason that you need .\ScriptName to run a script within a directory is to prevent attacks. In the old days of Unix, attackers would create scripts such as "pwd" that would execute when run within a directory.
-	* The Powershell community is very strong and helpful. Try asking questions on Powershell.org or on Twitter.
+	* The Powershell community is very strong and helpful. Try asking questions on Powershell.org or on Twitter (#PowerShell).
+	* Implicit remoting allows you to run cmdlets on different servers all locally.
+	* Using icm with sessions allows you to issue commands to many computers at once remotely. 
 * [Contract templates](http://mashable.com/2014/06/30/free-contract-templates/) for freelancing.
 * From [Unix tutorial](http://www.oliverelliott.org/article/computing/tut_unix/):
 	* Command substitution allows you to run a command and store the output to a variable or use it as an argument. Syntax: $(command)
