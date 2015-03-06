@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "More Unix"
+date:   2015-03-05
+---
+Things learned today:
+
+* Bash guide from startup engineering on [Coursera](https://class.coursera.org/startup-001/wiki/week2)
+* The typical place to store custom bash scripts is usr/local/bin. 
+* chmod 755 to reserve write access for the user and make executable.
+* Script created: [zippy](http://www.quora.com/What-are-some-useful-bash_profile-and-bashrc-tips/answer/Eren-Golge?srid=iSIw&share=1) (to unzip/extract anything). 
+* [Auto-complete](http://www.wildboy.co/blog/6-snippets-to-make-terminal-awesome/) sudo and man, colorize ls and grep.
+* Benefit of using tmux (or screen) - terminal sessions become persistent until you shut down.
+* Karen in Californication - "They're just words - I know you mean them, but I don't know what they mean to you."
