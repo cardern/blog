@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "You Don't Know JS"
+date:   2015-03-08
+---
+Things learned today:
+
+* Word of the day - mulct : to punish by fine.
+	* Ex: The ruler used an income tax primarily to mulct his subjects.
+* How to [keep a cuff](http://www.ehow.com/how_5077021_keep-cuff-jeans.html) in jeans.
+* Bash command line practice from Coursera - [Part 1](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf) and [part 2](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf).
+* You don't know JS - [This and Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch1.md)
+	* Many programmers don't fully understand how to use ```this``` and fall back to reliance on lexical scope instead.
+<br><br>
+{%highlight javascript%}
+function foo(num) {
+    console.log( "foo: " + num );
+
+    // keep track of how many times `foo` is called
+    data.count++;
+}
+
+var data = {
+    count: 0
+};
+{%endhighlight%}
+
+* An alternative is to use ```this.count++;``` and to call the function via ```foo.call( foo, i );```, which forces ```this``` to point at the function object.
