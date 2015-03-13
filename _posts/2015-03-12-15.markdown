@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Intro to R"
+date:   2015-03-12
+---
+Things learned today:
+
+* Emacs tutorial: M-x help-with-tutorial
+* Learning about R today to look at crude oil data over the past year. I wanted to see if there was an opportunity to invest in airlines after crude prices had started to fall.
+* File extensions aren't necessary to run scripts (Python, R, etc.), they are a convention. 
+* REPLs are useful for exploratory programming because of their [quick feedback](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop#Uses).
+* R Cheatsheet:
+	* q() - Quit REPL
+	* list.files() - ls
+	* source("filename") - Run program
+	* install.packages("packagename"), update.packages()
+	* Assign variables via <-
+	* c() - Create a new vector (array). Vector indices start at 1. 
+	* Rscript - Run program without entering REPL. 
+	* Graphs generated in the REPL appear immediately in Quartz, and from rscript are saved as PDFs.
+	* [RStudio](http://www.rstudio.com/) seems like the best R-specific IDE right now. [Ggplot2](http://docs.ggplot2.org/current/) is a good way to create visualizations.
