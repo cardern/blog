@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Javascript Ch. 2"
+date:   2015-03-18
+---
+Things learned today:
+
+* Word of the day: [Paraprosdokian](http://en.wikipedia.org/wiki/Paraprosdokian) - A figure of speech in which the latter part of a phrase is surprising in a way that causes the listener to reinterpret the first part.
+* [Graph](http://graphtv.kevinformatics.com/) the ratings of any TV show on IMDB.
+* React seems [pretty simple](http://facebook.github.io/react/blog/2013/11/05/thinking-in-react.html) to use- you basically just stick all of your HTML into React components. It is a more modular way of developing, which means that it makes a website more maintainable long term. However, it could be unnecessary for simple pages where you don't want to invest in a server. 
+* Efficient approach to [reservoir sampling](https://www.omniref.com/ruby/gems/stream_sampler/0.0.1/symbols/StreamSampler#line=6) (Taking a random sample from a large number of records).
+* [Deep links](http://en.wikipedia.org/wiki/Deep_linking) are links to specific pieces of content rather than homepages.
+* [GitLab](https://about.gitlab.com/) is an alternative to GitHub if you want to self-host your content.
+* Original [call site](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md) is what matters for ```this``` binding in JS. 
+* Hard binding is a form of explicit binding that allows you to force a function call to use a particular object for ```this``` binding. It's a built in utility as of [ES5](http://en.wikipedia.org/wiki/ECMAScript). Summary of ```this``` binding rules [here](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md#determining-this).
+* [Currying](http://en.wikipedia.org/wiki/Currying) is when you break down a function that takes multiple arguments into a series of functions that take part of the arguments. It [enables](http://programmers.stackexchange.com/questions/185585/what-is-the-advantage-of-currying) higher order functions to be used much more effectively and concisely. If you plan to do this in Javascript, the safe way is to create a [null object](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md#safer-this) to use to avoid any problems with ```this```.
+* It's a [common mis-statement](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md) that "everything in JavaScript is an object". The simple primitives (string, boolean, number, null, and undefined) are not themselves objects. There are also constructed object versions of these, but using the literal form (primitive) is preferred. The engine will turn these into constructed objects for property/method access.
