@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CSS Positioning"
+date:   2015-03-23
+---
+Things learned today:
+
+* Word of the day: [Sprezzatura](http://en.wikipedia.org/wiki/Sprezzatura) - A certain nonchalance, so as to conceal all art and make whatever one does or says appear to be without effort and almost without any thought about it.
+* Some tips on [CSS positioning](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6) from Youtube.
+	* By default, elements will have ```position: static``` and all directions set to auto. You can check on this by looking at the Computed tab of dev tools.
+	* Relatively positioned elements will create a gap by default, as the flow of statically positioned elements will not move.
+	* An absolutely positioned element will be relative to the next parent element that is not statically positioned.
+	* If you set both the left and right directional properties, you can stretch the element across the screen.
+	* Fixed positioning is good for headers or shopping carts since it will always remain on the screen.
