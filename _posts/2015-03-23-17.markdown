@@ -12,3 +12,8 @@ Things learned today:
 	* An absolutely positioned element will be relative to the next parent element that is not statically positioned.
 	* If you set both the left and right directional properties, you can stretch the element across the screen.
 	* Fixed positioning is good for headers or shopping carts since it will always remain on the screen.
+	* Floating elements (left usually) is important for responsive design, and typically requires a clear either by adding ```clear:both``` to a final div or via this [clearfix hack](http://nicolasgallagher.com/micro-clearfix-hack/) on the container.
+	* There are a few ways to center elements with CSS. 
+		* ```text-align: center``` on container and ```display: inline-block``` on element
+		* ```margin: auto``` on element
+		* ```left: 50%``` and ```margin-left: -X px``` on element
