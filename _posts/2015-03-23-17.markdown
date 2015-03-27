@@ -17,3 +17,6 @@ Things learned today:
 		* ```text-align: center``` on container and ```display: inline-block``` on element
 		* ```margin: auto``` on element
 		* ```left: 50%``` and ```margin-left: -X px``` on element
+	* SASS > SCSS and LESS. It is less verbose, although requires learning a bit of new syntax.
+	* [Jade](http://jade-lang.com/) is a templating language for HTML, and can help make markup a lot easier to read and write. 
+		* No more carets needed, and divs can be replaced with just the class or id.
