@@ -9,9 +9,9 @@ Things learned today:
 * Some tips on [CSS positioning](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6) from Youtube.
 	* By default, elements will have ```position: static``` and all directions set to auto. You can check on this by looking at the Computed tab of dev tools.
 	* Relatively positioned elements will create a gap by default, as the flow of statically positioned elements will not move.
-	* An absolutely positioned element will be relative to the next parent element that is not statically positioned.
-	* If you set both the left and right directional properties, you can stretch the element across the screen.
-	* Fixed positioning is good for headers or shopping carts since it will always remain on the screen.
+	* An absolutely positioned element will be relative to the next parent element that is not static.
+	* Setting both the left and right directional properties stretches the element across the screen.
+	* Fixed positioning is good for headers or shopping carts since it will always remain on screen.
 	* Floating elements (left usually) is important for responsive design, and typically requires a clear either by adding ```clear:both``` to a final div or via this [clearfix hack](http://nicolasgallagher.com/micro-clearfix-hack/) on the container.
 	* There are a few ways to center elements with CSS. 
 		* ```text-align: center``` on container and ```display: inline-block``` on element

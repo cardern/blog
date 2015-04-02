@@ -1,0 +1,13 @@
+---
+layout: post
+title:  ""
+date:   2015-04-02
+---
+Things learned today:
+
+* Word of the day: 
+* [Gestalt psychology](http://en.wikipedia.org/wiki/Gestalt_psychology#Gestalt_and_Design) is used in [logo creation](http://qr.ae/QZ97b) sometimes to create positive associations with the brand.
+* The phone and mimeograph both rose in popularity [at the same time](http://www.gatesnotes.com/media/features/books/Bill_Gates_John_Brooks_Business_Adventures_Review_Xerox_Free_Chapter.pdf). Maybe this was not a coincidence, as communication typically leads to a need for more rather than less.
+* Treat [strangers like friends](http://qr.ae/QZ9GK), remain organized, make your bed.
+* [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) - an exploration of how git works.
+* [Example portfolio sites] using Bootstrap for inspiration.
