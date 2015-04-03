@@ -10,4 +10,7 @@ Things learned today:
 * The phone and mimeograph both rose in popularity [at the same time](http://www.gatesnotes.com/media/features/books/Bill_Gates_John_Brooks_Business_Adventures_Review_Xerox_Free_Chapter.pdf). Maybe this was not a coincidence, as communication typically leads to a need for more rather than less.
 * Treat [strangers like friends](http://qr.ae/QZ9GK), remain organized, make your bed.
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) - an exploration of how git works.
-* [Example portfolio sites] using Bootstrap for inspiration.
+	* Excerpts: Generally, there are few content changes from commit to commit. This means that Git can store large commit histories in a small amount of space.
+	* The current branch is stored in the HEAD file at .git/HEAD via ref. Checking out a commit sets HEAD to the hash of that commit.
+* [Example portfolio sites](https://wrapbootstrap.com/themes/portfolios) using Bootstrap for inspiration.
+* [Documentary](https://vimeo.com/97270099) on the Barkley 100.
