@@ -1,16 +1,25 @@
 ---
 layout: post
-title:  ""
+title:  "Learning Git"
 date:   2015-04-02
 ---
 Things learned today:
 
-* Word of the day: 
+* Word of the day: Pecuniary - Relating to money. From the Latin word for money, pecunia, which itself is from cattle.
 * [Gestalt psychology](http://en.wikipedia.org/wiki/Gestalt_psychology#Gestalt_and_Design) is used in [logo creation](http://qr.ae/QZ97b) sometimes to create positive associations with the brand.
 * The phone and mimeograph both rose in popularity [at the same time](http://www.gatesnotes.com/media/features/books/Bill_Gates_John_Brooks_Business_Adventures_Review_Xerox_Free_Chapter.pdf). Maybe this was not a coincidence, as communication typically leads to a need for more rather than less.
 * Treat [strangers like friends](http://qr.ae/QZ9GK), remain organized, make your bed.
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) - an exploration of how git works.
 	* Excerpts: Generally, there are few content changes from commit to commit. This means that Git can store large commit histories in a small amount of space.
 	* The current branch is stored in the HEAD file at .git/HEAD via ref. Checking out a commit sets HEAD to the hash of that commit.
+* Useful [git aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases/) to speed up workflow.
 * [Example portfolio sites](https://wrapbootstrap.com/themes/portfolios) using Bootstrap for inspiration.
 * [Documentary](https://vimeo.com/97270099) on the Barkley 100.
+* [Learning the Web](https://developer.mozilla.org/en-US/docs/Web/Tutorials) tutorials on the MDN.
+* A look at why the [Doom 3 source code](https://news.ycombinator.com/item?id=9302637) (written in C++) is an example of great code.
+* A [clean design](http://www.visualmess.com/index.html) is one that supports visual thinking so people can meet their informational needs with a minimum of conscious effort.
+* JS learning resource: [Eloquent Javascript](http://eloquentjavascript.net/) and the new [annotated version](https://news.ycombinator.com/item?id=9236501&utm_term=comment).
+* [Cloud66](http://www.cloud66.com/) is an alternative to Heroku that allows you to plug into Digital Ocean, AWS, Linode, Google Cloud, where Heroku locks you into their platform.
+* [Recovering sound](https://news.ycombinator.com/item?id=9254654&utm_term=comment) from high speed video.
+* [Interviews](http://foundersatwork.posthaven.com/my-interviews-with-airbnb-dropbox-posterous-reddit-weebly-and-wufoo-circa-2010) with founders of major startups in 2010.
+* From the origins of the [white collar worker](http://blog.longreads.com/2015/03/24/i-would-prefer-not-to-the-origins-of-the-white-collar-worker/): And so unlike “solidarity,” the key word of the European industrial labor movement that had made its way to England and America, the ethic that began to take hold among clerks was that of “self-improvement.” Clerical workers were uprooted from the close-knit world of families and farms, where knowledge was passed down from father to son. Other clerks were merely their competition; they had no one to rely on but themselves. “The man who does not at least propose to himself to be better this year than he was last must be very good or bad indeed,” wrote the merchant’s clerk Edward Tailer in his diary entry on New Year’s Day 1850. There is, he continued, “no such thing as a stationary point in human endeavors; he who is not worse to day than he was yesterday is better; and he who is not better is worse.”
