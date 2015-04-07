@@ -1,0 +1,12 @@
+---
+layout: post
+title:  ""
+date:   2015-04-07
+---
+Things learned today:
+
+* Word of the day: 
+* [Normalize.css](http://necolas.github.io/normalize.css/) helps to make different browsers render content more consistently.
+* [Three.js](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene) is a library for making cool 3D stuff in browser with WebGL.
+* Visualizing your [git repository](http://think-like-a-git.net/sections/graphs-and-git/visualizing-your-git-repository.html).
+* Managing [multiple deploy environments](http://webcache.googleusercontent.com/search?q=cache:1LQ-B2U3DgsJ:indelible.io/blog/2013/07/26/jekyll-deploy-script.html&hl=en&gl=us&strip=1) using Github Pages, useful for maintaining dev and prod.
