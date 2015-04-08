@@ -12,3 +12,4 @@ Things learned today:
 * Managing [multiple deploy environments](http://webcache.googleusercontent.com/search?q=cache:1LQ-B2U3DgsJ:indelible.io/blog/2013/07/26/jekyll-deploy-script.html&hl=en&gl=us&strip=1) using Github Pages, useful for maintaining dev and prod.
 	* For personal site, in prod: ```git remote add dev ../dev```
 	* To update prod: ```git pull dev master```
+* When using Sass, you can have it watch a specific file: ```sass --watch input.scss:output.css``` or a directory: ```sass --watch dev/sass:dev/css```

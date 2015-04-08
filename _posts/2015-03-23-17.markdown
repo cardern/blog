@@ -18,6 +18,6 @@ Things learned today:
 		* ```margin: auto``` on element
 		* ```left: 50%``` and ```margin-left: -X px``` on element
 		* With flexbox, ```justify-content: center```
-	* SASS > SCSS and LESS. It is less verbose, although requires learning a bit of new syntax.
+	* According to DevTips, SASS > SCSS and LESS. It is less verbose, but requires learning new syntax. This opinion is [contested](http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better).
 	* [Jade](http://jade-lang.com/) is a templating language for HTML, and can help make markup a lot easier to read and write. 
 		* No more carets needed, and divs can be replaced with just the class or id.
