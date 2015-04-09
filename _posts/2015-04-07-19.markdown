@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Compass & SCSS"
 date:   2015-04-07
 ---
 Things learned today:
@@ -12,5 +12,10 @@ Things learned today:
 * Managing [multiple deploy environments](http://webcache.googleusercontent.com/search?q=cache:1LQ-B2U3DgsJ:indelible.io/blog/2013/07/26/jekyll-deploy-script.html&hl=en&gl=us&strip=1) using Github Pages, useful for maintaining dev and prod.
 	* For personal site, in prod: ```git remote add dev ../dev```
 	* To update prod: ```git pull dev master```
-* When using Sass, you can have it watch a specific file: ```sass --watch input.scss:output.css``` or a directory: ```sass --watch dev/sass:dev/css```
+* An [organizational structure](https://www.youtube.com/watch?v=6co781JgoqQ) for your Sass files called [SMACSS](https://github.com/jonathanpath/SASS-SMACSS).
+* When using Sass, you can have it watch:
+	* A specific file- ```sass --watch input.scss:output.css```
+	* A directory- ```sass --watch dev/scss:dev/stylesheets```
+* Started using [Compass](http://compass-style.org/help/tutorials/) today.
+	* Start project- ```compass create```, watch project- ```compass watch &```
 * There is a [theme park](https://vimeo.com/76694540) in Italy made mostly by one man.
