@@ -26,5 +26,6 @@ Things learned today:
 	* [MStone](http://mycookroom.ru/mywork/MStone/1.2/Demo/)- Better font, no carousel at top. Name in top bar.
 	* [3ColorResume](http://kamsolutions.pl/projects/resume/)- Use of color, timeline for education. Different style that is not well represented on WrapBootstrap.
 	* [Transition](http://www.basicoh.com/demo/transition/)- Unique 4-panel layout. Subtle visual hover effect on quadrant.
-	* [CVilized](http://demo.thedevelovers.com/resume/cvilized-1.1/)- 
-	* Conclusions: In the top bar, include place on page and contact button.
+	* [CVilized](http://demo.thedevelovers.com/resume/cvilized-1.1/)- The header is pretty nice. The side widget is neat (although not part of the site).
+	* [SeventyFour](http://choco-pixel.com/SeventyFour-1.2/horizontal-menu/Image/index.html)- Arrow pointing down from header image. Middle section cutout.
+	* Conclusions: In the top bar, include place on page and contact button. Try using cutouts to divide the page.
