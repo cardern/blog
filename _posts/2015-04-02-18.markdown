@@ -13,7 +13,6 @@ Things learned today:
 	* Excerpts: Generally, there are few content changes from commit to commit. This means that Git can store large commit histories in a small amount of space.
 	* The current branch is stored in the HEAD file at .git/HEAD via ref. Checking out a commit sets HEAD to the hash of that commit.
 * Useful [git aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases/) to speed up workflow.
-* [Example portfolio sites](https://wrapbootstrap.com/themes/portfolios) using Bootstrap for inspiration.
 * [Documentary](https://vimeo.com/97270099) on the Barkley 100.
 * [Learning the Web](https://developer.mozilla.org/en-US/docs/Web/Tutorials) tutorials on the MDN.
 * A look at why the [Doom 3 source code](https://news.ycombinator.com/item?id=9302637) (written in C++) is an example of great code.
