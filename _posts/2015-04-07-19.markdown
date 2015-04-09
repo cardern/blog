@@ -5,7 +5,9 @@ date:   2015-04-07
 ---
 Things learned today:
 
-* Word of the day: 
+* Word of the day: [Emulsion](http://en.wikipedia.org/wiki/Emulsion)- A mixture of two liquids that are normally unmixable. An emulsifier stabilizes the emulsion and the liquids remain mixed. 
+* There is a [theme park](https://vimeo.com/76694540) in Italy made mostly by one man.
+* [Mintty](https://code.google.com/p/mintty/) seems to be the current best terminal emulator for Cygwin.
 * [Normalize.css](http://necolas.github.io/normalize.css/) helps to make different browsers render content more consistently.
 * [Three.js](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene) is a library for making cool 3D stuff in browser with WebGL.
 * Visualizing your [git repository](http://think-like-a-git.net/sections/graphs-and-git/visualizing-your-git-repository.html).
@@ -18,4 +20,11 @@ Things learned today:
 	* A directory- ```sass --watch dev/scss:dev/stylesheets```
 * Started using [Compass](http://compass-style.org/help/tutorials/) today.
 	* Start project- ```compass create```, watch project- ```compass watch &```
-* There is a [theme park](https://vimeo.com/76694540) in Italy made mostly by one man.
+* [Bourbon](http://bourbon.io/) is a popular but slightly different alternative to Compass. One primary goal of both is to provide a consistent experience across browsers.
+* [Example portfolio sites](https://wrapbootstrap.com/themes/resumes-cv) using Bootstrap for inspiration. The resume section has less competition than portfolios, although total purchases and average prices are lower. Examining in order of number of total sales.
+	* [Articulate](http://authenticgoods.co/wrapbootstrap/themes/articulate-v1.1/)- Call to action and ways to connect immediately visible. Subtle gradient change between sections, with contact section very different. Translucent hovering top bar.
+	* [MStone](http://mycookroom.ru/mywork/MStone/1.2/Demo/)- Better font, no carousel at top. Name in top bar.
+	* [3ColorResume](http://kamsolutions.pl/projects/resume/)- Use of color, timeline for education. Different style that is not well represented on WrapBootstrap.
+	* [Transition](http://www.basicoh.com/demo/transition/)- Unique 4-panel layout. Subtle visual hover effect on quadrant.
+	* [CVilized](http://demo.thedevelovers.com/resume/cvilized-1.1/)- 
+	* Conclusions: In the top bar, include place on page and contact button.
