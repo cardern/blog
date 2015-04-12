@@ -15,5 +15,6 @@ Things learned today:
 * [Motivation follows action](https://news.ycombinator.com/item?id=9334269&utm_term=comment).
 * [Titon](https://news.ycombinator.com/item?id=9322965&utm_term=comment), a less opinionated alternative to bootstrap.
 * Added this blog to [FeedBurner](http://feeds.feedburner.com/cardern) to track RSS numbers. To get FeedBurner to update immediately, visit [this](http://www.feedburner.com/fb/a/ping) page.
-* Book recommendation: [Thinking Fast and Slow](http://www.2uo.de/influence/) by Kahnemann, vs. Influence by Cialdini. Some [science book](http://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader) recs.
+* Book recommendation: [Thinking Fast and Slow](http://www.2uo.de/influence/) by Kahnemann, vs. Influence by Cialdini. Some [science book](http://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader) recommendations.
 * [Locations](http://whereis-whoishiring-hiring.me/) of "Who is hiring? posts on HN.
+* [Paste from clipboard](http://dragly.org/2011/02/23/making-new-image-in-gimp-same-size-as-clipboard/) in GIMP. 
