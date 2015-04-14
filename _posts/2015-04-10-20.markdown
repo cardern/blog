@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Gimp and HN"
 date:   2015-04-10
 ---
 Things learned today:
@@ -17,4 +17,4 @@ Things learned today:
 * Added this blog to [FeedBurner](http://feeds.feedburner.com/cardern) to track RSS numbers. To get FeedBurner to update immediately, visit [this](http://www.feedburner.com/fb/a/ping) page.
 * Book recommendation: [Thinking Fast and Slow](http://www.2uo.de/influence/) by Kahnemann, vs. Influence by Cialdini. Some [science book](http://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader) recommendations.
 * [Locations](http://whereis-whoishiring-hiring.me/) of "Who is hiring? posts on HN.
-* [Paste from clipboard](http://dragly.org/2011/02/23/making-new-image-in-gimp-same-size-as-clipboard/) in GIMP. 
+* [Paste from clipboard](http://dragly.org/2011/02/23/making-new-image-in-gimp-same-size-as-clipboard/) in GIMP with Cmd+Shift+V, and export image with Cmd+Shift+E. 
