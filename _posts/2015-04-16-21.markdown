@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Cross Browser Testing"
+date:   2015-04-16
+---
+Things learned today:
+
+* Word of the day: 
+* Avoid getting [spammed](http://csarven.ca/hiding-email-addresses) from your personal site. Favorite method is using client-side JS to populate the mailto href and div content.
+* [Browser usage]()
+* Tips for [cross browser testing](http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/). Two good options are [BrowserStack](http://www.browserstack.com/screenshots) or [SauceLabs](https://saucelabs.com/pricing). Signed up for SauceLabs with a free account.
+	* [Browsersync](http://www.browsersync.io/) is a free tool to reload multiple browsers at the same time.
+	* [Browserling](https://www.browserling.com/) is a free online VM service.

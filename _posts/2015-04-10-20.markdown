@@ -5,7 +5,6 @@ date:   2015-04-10
 ---
 Things learned today:
 
-* Word of the day: 
 * Good article on [self reflection](https://medium.com/who-what-why/your-past-experiences-are-blinding-you-bd3902b762e6).
 * Examples of [interactive development](https://news.ycombinator.com/item?id=9317159&utm_term=comment) in action.
 * Advice on [startups](http://www.talkingquickly.co.uk/2015/04/what-id-tell-myself-about-startups). See points [57](http://www.paulgraham.com/articles.html) and 59 for reading suggestions.
