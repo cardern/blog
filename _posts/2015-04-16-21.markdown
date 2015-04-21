@@ -12,3 +12,9 @@ Things learned today:
 	* [Browsersync](http://www.browsersync.io/) is a free tool to reload multiple browsers at the same time.
 	* [Browserling](https://www.browserling.com/) is a free online VM service.
 * Videos from [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ).
+* Make sure to test sites at [large resolutions](http://quirktools.com/screenfly/) as well. Can test CSS changes in devtools from here.
+* Recommendations for [UI fonts](http://thomasbyttebier.be/blog/the-best-ui-typeface-goes-unnoticed) include Lucida Grande, Verdana, Fira Sans, Roboto, Ubuntu, & Segoe UI.
+* A talk by [Yanis Varoufakis](https://www.youtube.com/watch?v=OY3Qxm6BoUI), current finance minister of Greece, giving his thoughts on economic recovery in Europe.
+	* The conception of the EU was intended to be both monetary and political, but the founders knew that a political union would fail. Their hope was that given a monetary union, an inevitable crisis would bring the nations closer together politically. However, this has been the opposite of what has happened.
+* The story of how scurvy was [cured twice](http://idlewords.com/2010/03/scott_and_scurvy.htm).
+* The [Socratic method](http://www.garlikov.com/Soc_Meth.html) is a good way to engage students when a topic has a logical nature. It is hard to create a lesson in this way and requires preparation.
