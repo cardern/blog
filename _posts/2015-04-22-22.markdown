@@ -1,0 +1,12 @@
+---
+layout: post
+title:  ""
+date:   2015-04-22
+---
+Things learned today:
+
+* Word of the day: 
+* [Growth Geeks](http://www.growthgeeks.com/) is a service to quickly grow a business recommended by [Blaine](https://openmindedinnovations.slack.com/).
+* [Insights](http://simplestepscode.com/how-to-get-a-web-development-job-in-four-steps/) on getting a web dev job.
+	* Meet up to code and learn. Google: "web development meetups in [your area]", Meetup.com, LinkedIn.
+	* Ask good questions. [Some examples](http://simplestepscode.com/how-to-get-a-web-development-job-in-four-steps/#step2).
