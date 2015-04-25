@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  ""
+title:  "HN 249"
 date:   2015-04-22
 ---
 Things learned today:
 
-* Word of the day: 
 * [Growth Geeks](http://www.growthgeeks.com/) is a service to quickly grow a business recommended by [Blaine](https://openmindedinnovations.slack.com/).
 * [Insights](http://simplestepscode.com/how-to-get-a-web-development-job-in-four-steps/) on getting a web dev job.
-	* Meet up to code and learn. Google: "web development meetups in [your area]", Meetup.com, LinkedIn.
+	* Meet up to code and learn. Google: "web development meetups in [x]", Meetup.com, LinkedIn.
 	* Ask good questions. [Some examples](http://simplestepscode.com/how-to-get-a-web-development-job-in-four-steps/#step2).
+* A [guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to flexbox, and some [help](http://howtocenterincss.com/) in centering elements with CSS.
+* [Trains stay on track](http://materials.mcmaster.ca/Condensed%20Matter/December2009.pdf) because they don't have a differential.
+* Book: [Automate](https://news.ycombinator.com/item?id=9415891&utm_term=comment) the boring stuff with Python.
+* [PostCSS](https://github.com/postcss/postcss), a CSS parser. It provides an API that modular plugins can use to work with CSS.
+* [Schemaverse](https://schemaverse.com/tutorial/tutorial.php), a space strategy game that is played with PostgreSQL commands.
