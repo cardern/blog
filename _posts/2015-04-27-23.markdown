@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Photo Recovery"
 date:   2015-04-27
 ---
 Things learned today:
@@ -9,3 +9,4 @@ Things learned today:
 	* use dd to make a copy of the disk image. Use a greater block size (bs=1m) to speed up the process, and use [rdiskN](http://codefeed.com/blog/osx-dd-dead-slow). Look at the activity monitor to see transfer speeds.
 	* Use [PhotoRec](http://www.cgsecurity.org/wiki/PhotoRec) to recover the photos. 
 	* Other options are [ZAR](http://www.z-a-recovery.com/download.aspx)(Windows),[TestDisk](http://www.cgsecurity.org/wiki/TestDisk), [Recuva](https://www.piriform.com/recuva).
+* To embed a background HTML5 video, use [video.js](http://www.videojs.com/).
