@@ -10,3 +10,7 @@ Things learned today:
 	* Use [PhotoRec](http://www.cgsecurity.org/wiki/PhotoRec) to recover the photos. 
 	* Other options are [ZAR](http://www.z-a-recovery.com/download.aspx)(Windows),[TestDisk](http://www.cgsecurity.org/wiki/TestDisk), [Recuva](https://www.piriform.com/recuva).
 * To embed a background HTML5 video, use [video.js](http://www.videojs.com/).
+* Consider using [wow.js](http://mynameismatthieu.com/WOW) for DOM animations in the future.
+* [Me, my, I'm](https://medium.com/@bydanielvictor/the-one-word-reporters-should-add-to-twitter-searches-that-you-probably-haven-t-considered-fadab1bc34e8) are all great words to use in tracking down sources on Twitter based on recent events.
+* When [traveling alone](https://medium.com/@alexschiff/how-and-why-to-travel-alone-595e980714e6), use [Hostelworld](http://www.hostelworld.com/) for reviews, stay ~3 nights per city, don't plan more than a few days in advance in specifics, read the news of the country that you are in.
+* Cool [world map](https://news.ycombinator.com/item?id=9464348&utm_term=comment) project.
