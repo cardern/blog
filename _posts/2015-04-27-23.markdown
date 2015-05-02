@@ -12,5 +12,13 @@ Things learned today:
 * To embed a background HTML5 video, use [video.js](http://www.videojs.com/).
 * Consider using [wow.js](http://mynameismatthieu.com/WOW) for DOM animations in the future.
 * [Me, my, I'm](https://medium.com/@bydanielvictor/the-one-word-reporters-should-add-to-twitter-searches-that-you-probably-haven-t-considered-fadab1bc34e8) are all great words to use in tracking down sources on Twitter based on recent events.
-* When [traveling alone](https://medium.com/@alexschiff/how-and-why-to-travel-alone-595e980714e6), use [Hostelworld](http://www.hostelworld.com/) for reviews, stay ~3 nights per city, don't plan more than a few days in advance in specifics, read the news of the country that you are in.
+* When [traveling alone](https://medium.com/@alexschiff/how-and-why-to-travel-alone-595e980714e6), use [Hostelworld](http://www.hostelworld.com/) for reviews, stay ~3 nights per city, don't plan more than a few days in advance in specifics, read the news of the country that you are in. [More advice](https://news.ycombinator.com/item?id=9439286) on traveling for a long time.
 * Cool [world map](https://news.ycombinator.com/item?id=9464348&utm_term=comment) project.
+* Story on trades based on [sentiment analysis](http://www.slate.com/articles/business/moneybox/2015/04/bot_makes_2_4_million_reading_twitter_meet_the_guy_it_cost_a_fortune.html).
+* Best [product landing](https://news.ycombinator.com/item?id=9440208) pages.
+* [Easily transform](https://www.transformy.io/) a list. Also a feature of [Excel](https://news.ycombinator.com/item?id=9432949&utm_term=comment).
+* [Materialize](http://materializecss.com/), a new front-end framework based on Google's material design.
+* [Graphical linear algebra](https://news.ycombinator.com/item?id=9461118&utm_term=comment)- a work in progress, only 4 episodes right now.
+* [Intro to networking](https://news.ycombinator.com/item?id=9445692&utm_term=comment) in C.
+* [Intro to data science](https://news.ycombinator.com/item?id=9442384&utm_term=comment) in Python.
+* [Agar.io](https://news.ycombinator.com/item?id=9462967&utm_term=comment), fun blog game.
