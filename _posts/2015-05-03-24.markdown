@@ -6,3 +6,6 @@ date:   2015-05-03
 Things learned today:
 
 * Word of the day: [Unlockable](http://www.reddit.com/r/AskReddit/comments/15jzxl/what_is_an_interesting_lesser_known_word_you_like/) - Incapable of being locked, or capable of being locked.
+* How to create a Sublime Text 2 [plugin](http://code.tutsplus.com/tutorials/how-to-create-a-sublime-text-2-plugin--net-22685) by wbond.
+	* Sublime Text [API Reference](http://docs.sublimetext.info/en/latest/reference/api.html) and [here](http://www.sublimetext.com/docs/3/api_reference.html).
+	* [Guide](https://www.sublimetext.com/docs/3/porting_guide.html) for porting plugins from ST2 to 3.
