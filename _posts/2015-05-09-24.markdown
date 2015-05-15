@@ -9,3 +9,7 @@ Things learned today:
 * How to create a Sublime Text 2 [plugin](http://code.tutsplus.com/tutorials/how-to-create-a-sublime-text-2-plugin--net-22685) by wbond.
 	* Sublime Text [API Reference](http://docs.sublimetext.info/en/latest/reference/api.html) and [here](http://www.sublimetext.com/docs/3/api_reference.html).
 	* [Guide](https://www.sublimetext.com/docs/3/porting_guide.html) for porting plugins from ST2 to 3.
+* Helpful tool to create [Regex](http://www.regexr.com/) expressions.
+* [Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/index.html) for a jQuery carousel.
+* Front end dev [interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questiodns).
+* How to win at [rock paper scissors](http://diply.com/trendyjoe/rock-paper-scissors/115283?ts_pid=2&ts_pid=5).
