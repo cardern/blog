@@ -11,5 +11,7 @@ Things learned today:
 	* [Guide](https://www.sublimetext.com/docs/3/porting_guide.html) for porting plugins from ST2 to 3.
 * Helpful tool to create [Regex](http://www.regexr.com/) expressions.
 * [Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/index.html) for a jQuery carousel.
-* Front end dev [interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questiodns).
+* Front end dev [interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions).
 * How to win at [rock paper scissors](http://diply.com/trendyjoe/rock-paper-scissors/115283?ts_pid=2&ts_pid=5).
+* Installing [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup) locally. Use \? to see available commands and \d(escribe) to see table structure.
+* List of [coding challenges](http://codecondo.com/coding-challenges/).
