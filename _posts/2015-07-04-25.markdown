@@ -1,0 +1,22 @@
+---
+layout: post
+title:  ""
+date:   2015-07-04
+---
+Things learned since last post:
+
+* Cool word watch: Anaphora - The use of a word referring to or replacing a word used earlier in a sentence, to avoid repetition, such as do in "I like it and so do they."
+* List of [free programming books](http://hackershelf.com/browse/?popular=1).
+* Free official [Raspberry Pi magazine](https://www.raspberrypi.org/magpi/).
+* Press coverage for a [tech startup](https://news.ycombinator.com/item?id=9616583&utm_term=comment).
+* How to make open offices [suck less](http://www.mattblodgett.com/2015/05/open-plan-office-suck-less.html).
+* Life as a [clown](http://nymag.com/daily/intelligencer/2015/05/fears-of-boswick-the-clown.html) in 2015.
+* Facebook Messenger enables location sharing by [default](https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d).
+* The death of [Dean Potter](http://www.nytimes.com/2015/06/14/sports/dean-potter-final-yosemite-jump.html?utm_source=nextdraft&utm_medium=email).
+* The woes of [American recycling](http://www.washingtonpost.com/local/dc-politics/american-recycling-is-stalling-and-the-big-blue-bin-is-one-reason-why/2015/06/20/914735e4-1610-11e5-9ddc-e3353542100c_story.html?utm_source=nextdraft&utm_medium=email).
+* Easily retrieve Youtube [view data](http://minimaxir.com/2015/06/cars-2/) via the [API](https://developers.google.com/youtube/v3/).
+* The best [time of day](http://www.fastcompany.com/3047586/know-it-all/the-best-time-of-day-to-do-everything-at-work?utm_source=nextdraft&utm_medium=email) for a variety of tasks at work. A guide to [happiness](http://www.wired.com/2015/06/rashida-jones-guide-to-happiness-at-work/?utm_source=nextdraft&utm_medium=email) at work.
+* Tips for using [Python with Sublime Text](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/#.VY6mEPly9t4.reddit).
+* Cool apps of the week: [Jobstart](https://news.ycombinator.com/item?id=9771891&utm_term=comment) & [First Opinion](http://firstopinionapp.com/how-it-works/)
+* From PG: Full phrase is ["a word to the wise is sufficient."](http://www.paulgraham.com/word.html) How to go from [rich to poor](http://www.paulgraham.com/selfindulgence.html). Rephrase of [note 2](http://www.paulgraham.com/discover.html) below.
+** Those who grew up during the Great Depression certainly had a tough time. They were able to achieve remarkable things given the adversity they had to face. This reflects a basic truth about humanity - that people tend to rise to the occasion if necessary. Faced with similar obstacles and tested to their limits, I believe that other generations of Americans would be able to surmount equally difficult challenges and ultimately succeed.

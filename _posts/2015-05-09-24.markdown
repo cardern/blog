@@ -9,9 +9,17 @@ Things learned today:
 * How to create a Sublime Text 2 [plugin](http://code.tutsplus.com/tutorials/how-to-create-a-sublime-text-2-plugin--net-22685) by wbond.
 	* Sublime Text [API Reference](http://docs.sublimetext.info/en/latest/reference/api.html) and [here](http://www.sublimetext.com/docs/3/api_reference.html).
 	* [Guide](https://www.sublimetext.com/docs/3/porting_guide.html) for porting plugins from ST2 to 3.
-* Helpful tool to create [Regex](http://www.regexr.com/) expressions.
+* Helpful tool to create [Regex](https://news.ycombinator.com/item?id=9581225&utm_term=comment) expressions, another [here](https://www.debuggex.com/).
 * [Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/index.html) for a jQuery carousel.
 * Front end dev [interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions).
 * How to win at [rock paper scissors](http://diply.com/trendyjoe/rock-paper-scissors/115283?ts_pid=2&ts_pid=5).
 * Installing [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup) locally. Use \? to see available commands and \d(escribe) to see table structure.
 * List of [coding challenges](http://codecondo.com/coding-challenges/).
+* Data mining algorithms [explained](https://news.ycombinator.com/item?id=9562379&utm_term=comment).
+* Article on doing things [alone](https://news.ycombinator.com/item?id=9560426&utm_term=comment).
+* [Blog post](https://news.ycombinator.com/item?id=9584806&utm_term=comment) driven development.
+* Comparison of different [JS graph libraries](https://news.ycombinator.com/item?id=9583384&utm_term=comment).
+* Package that allows code in Atom to be run [directly as it's written](https://news.ycombinator.com/item?id=9577336&utm_term=comment).
+* Effort to stop [mass incarceration](http://www.newyorker.com/magazine/2015/05/11/the-milwaukee-experiment) in Milwaukee.
+* Articles on [enterprise sales](http://www.enterprisesales.nyc/).
+* Why investors don't fund [dating sites](https://news.ycombinator.com/item?id=9606572&utm_term=comment).
