@@ -1,0 +1,18 @@
+---
+layout: post
+title:  ""
+date:   2015-07-10
+---
+Things learned since last post:
+
+* Cool word watch: 
+* The difference between functions and methods in Javascript is mostly [semantic](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md#property-vs-method). Even if a function is associated with an object, it really isn't a method because it doesn't belong to the object.
+* How to create a [constant](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md#object-constant) as an object property in JS.
+* Nuances in [iterating over arrays](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md#iteration).
+* The [Doum-Tree](http://www.unz.org/Pub/Encounter-1962nov-00015) of Wad Hamid. Thesis: there is enough room in the world for both tradition and modernization. New development does not necessitate the destruction of the past.
+* [Classes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch4.md#javascript-classes) in Javascript are optional, and aren't really the same as in other languages. In JS, class = copy.
+* [Relative polymorphism](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch4.md#polymorphism) is the idea that any method can reference another method at a higher level of the inheritance hierarchy. In JS, this is through the ``inherited`` keyword. For many other languages, it is ``super``.
+* From PG on [essays](http://www.paulgraham.com/essay.html) - "The Meander (aka Menderes) is a river in Turkey. As you might expect, it winds all over the place. But it doesn't do this out of frivolity. The path it has discovered is the most economical route to the sea."
+* [A Little Cloud](http://www.classicshorts.com/stories/ltlcloud.html) by Joyce. Jealousy makes someone look upon their own life with a tint of loathing.
+* Why VR will bring back the [arcade](https://medium.com/@josh_taylor/virtual-reality-will-bring-back-the-arcade-16f3f92b52e8).
+* Do social networks reduce the [diversity](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426) of the web? I'm not sure the author is correct but it is an interesting idea.
