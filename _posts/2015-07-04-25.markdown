@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "7/4"
 date:   2015-07-04
 ---
 Things learned since last post:
