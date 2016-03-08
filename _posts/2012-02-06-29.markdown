@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "2/6/16"
+date:   2016-02-06
+---
+Things learned since last post:
+
+* Cool word watch: [Prurient](https://en.wiktionary.org/wiki/prurient) - Having or encouraging an excessive interest in sexual matters. from Latin prurient- ‘itching, longing’ and ‘being wanton,’ from the verb prurire.
+* A [rebranding](http://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/?utm_source=nextdraft&utm_medium=email#slide-4) effort by Uber.
+* A history of the super bowl coin toss and the [company behind it](http://www.bloomberg.com/features/2016-super-bowl-coin-toss/?utm_source=nextdraft&utm_medium=email).
+* [Clone Wars](https://www.reddit.com/r/StarWars/comments/3qiq9p/so_i_went_through_the_clone_wars_episodes_and/) recommended viewing order.
+* The [top 30](http://ramiro.org/vis/hn-most-linked-books/) books on HN in 2015.
+* The art of [changing someone's mind](https://www.washingtonpost.com/news/wonk/wp/2016/02/10/how-to-change-someones-mind-according-to-science/?utm_source=nextdraft&utm_medium=email).
+* Cool old map of [London](http://mappinglondon.co.uk/2013/victorian-london-in-incredible-detail/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun).
+* What make a child [resilient](http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience?utm_source=nextdraft&utm_medium=email)?
+* How the creator of [ProductHunt](https://m.signalvnoise.com/now-that-i-ve-created-something-how-do-i-spread-it-edcedddb260d#.x6m7xu700) was able to get it to spread.
+* 100 jokes that shaped modern [comedy](http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html).
+* Free airport wifi via a [DNS tunnel](https://thehackerblog.com/dns-and-icmp-tunneling/index.html).
+* Dude intentionally [gets hacked](http://fusion.net/video/271750/real-future-episode-8-hack-attack/?utm_source=nextdraft&utm_medium=email).
+* [Mother Earth, Mother Board](http://www.wired.com/1996/12/ffglass/?src=longreads)
+* When you fail at habits or procrastinate, ask [why](https://medium.com/swlh/the-i-don-t-feel-like-it-fallacy-75cc47dfd3#.tti3iqc4g) deeply.

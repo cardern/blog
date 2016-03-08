@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "10/30"
+date:   2015-10-30
+---
+Things learned since last post:
+
+* Cool word watch: [Prurient](https://en.wiktionary.org/wiki/prurient) - Having or encouraging an excessive interest in sexual matters. from Latin prurient- ‘itching, longing’ and ‘being wanton,’ from the verb prurire.
+* Profile on [Terry Gross](http://www.nytimes.com/2015/10/25/magazine/terry-gross-and-the-art-of-opening-up.html?utm_source=nextdraft&utm_medium=email&_r=0). 
+* [Class clown](http://www.npr.org/sections/ed/2015/11/08/449169531/class-clown-or-gifted-student-its-a-matter-of-perspective?utm_source=nextdraft&utm_medium=email) or gifted student?
+* Profile on [Ashima](http://espn.go.com/espn/feature/story/_/id/14098651/ashima-shiraishi-become-best-female-climber-world-just-14?utm_source=nextdraft&utm_medium=email) and her father.
+* Dive into [Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)!
+* [TensorFlow](http://tensorflow.org/get_started), Google's new library for machine learning.
+* Learning to center with [Flexbox froggy](http://flexboxfroggy.com/).
+* Some interesting [things](https://medium.com/@tomwhitwell/52-things-i-learned-in-2015-c5c74eed24e0#.ixs4om173):
+** Try removing the shopping cart completely from an e-commerce store if possible.
+** For emotion-driven purchases, remove the cents ($15). For logic-driven, add them ($14.95).
+* The life and times of [Strider Wolf](http://apps.bostonglobe.com/graphics/2015/11/strider/?p1=BGMenu_Article).
+* Opinion piece on how chill is the enemy of [passion](https://medium.com/matter/against-chill-930dfb60a577#.nfl4rp2a2).
+* Does psychological trauma affect the [price of a home](https://read.atavist.com/the-ghosts-of-pickering-trail)?
+* The Chinese owned [lingerie](http://www.newyorker.com/magazine/2015/08/10/learning-to-speak-lingerie) market of Egypt.
+* A life without [raw chicken](https://medium.com/@cat_beltane/what-i-learned-from-one-month-of-not-eating-raw-chicken-8f7f35b29985#.6ub69r1yx).
+* Running an [arcade](http://www.polygon.com/features/2015/9/7/9251753/running-an-arcade-2015) in 2015.
+* On [kindness](https://medium.com/matter/on-kindness-819ce388f976#.ry59a8syi).
+* The world of [re-commerce](http://www.wired.com/2016/01/holiday-returns-supply-chain/?utm_source=nextdraft&utm_medium=email).
+* Most marketers don't care about statistics - or how [A/B testing is a sham](http://blog.sumall.com/journal/optimizely-got-me-fired.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav).
+* The hardest part of programming is [troubleshooting](http://weblog.jamisbuck.org/2016/1/9/dont-assume-its-difficult.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav).
+* Beginner's guide to scaling with [AWS](https://news.ycombinator.com/item?id=10885727&utm_term=comment).
+* [Sketch](https://www.sketchapp.com/) - an alternative to Photoshop for web design.
+* Donald Rumsfeld gets into the [app game](http://www.wsj.com/articles/former-defense-secretary-marches-into-new-territory-videogames-1453483137?utm_source=nextdraft&utm_medium=email) market.

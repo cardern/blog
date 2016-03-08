@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "10/30"
+date:   2015-10-30
+---
+Things learned since last post:
+
+* Cool word watch: [Apophany](http://hazlitt.net/feature/goes-all-way-queen-puzzle-book-drove-england-madness?utm_source=hackernewsletter) - The tendency to perceive meaningful patterns within random data.
+* 100 days of [haiku](https://medium.com/the-lighthouse/what-i-learned-writing-a-haiku-every-day-for-100-days-ad23865ef760)
+* 1946 piece on [Hiroshima](http://www.newyorker.com/magazine/1946/08/31/hiroshima?utm_source=nextdraft&utm_medium=email).
+* Fun game - [argument champion](http://www.argumentchampion.com/).
+* How to [scrape Facebook](https://github.com/minimaxir/facebook-page-post-scraper/blob/master/how_to_build_facebook_scraper.ipynb).
+* Be [generous](http://qz.com/516813/you-should-demand-compliments-from-friends-and-colleagues-a-harvard-business-school-study-says/) with compliments and seek them out to perform at your best and help others do so.
+* Netflix's principle of [chaos engineering](http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html) lets them test system failure during business hours.
+* Training for [job interviews](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/).
+* The best [longreads](https://longform.org/publications/playboy?utm_source=nextdraft) from Playboy.
+* [Pingendo](http://pingendo.com/faq.html) - software for visually working with Bootstrap.
+* Hotstuff's word puzzle [archive](http://puzzletheory.asymmetric.net/archive.html).
+* An article about [making friends](http://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/?utm_source=nextdraft&utm_medium=email).
+* Why most app voices are [female](http://www.wired.com/2015/10/why-siri-cortana-voice-interfaces-sound-female-sexism/?utm_source=nextdraft&utm_medium=email) and some other interesting considerations behind deciding on a voice.
+* The first rule of [Dig Club](http://gripped.com/articles/the-first-rule-of-dig-club/).

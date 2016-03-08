@@ -5,7 +5,7 @@ date:   2015-07-10
 ---
 Things learned since last post:
 
-* Cool word watch: 
+* Cool word watch: [Recrudescence](http://www.lunarbaboon.com/comics/recrudescence.html) - The revival of material or behavior that had previously been stabilized, settled, or diminished.
 * The difference between functions and methods in Javascript is mostly [semantic](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md#property-vs-method). Even if a function is associated with an object, it really isn't a method because it doesn't belong to the object.
 * How to create a [constant](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md#object-constant) as an object property in JS.
 * Nuances in [iterating over arrays](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md#iteration).
@@ -16,6 +16,6 @@ Things learned since last post:
 * [A Little Cloud](http://www.classicshorts.com/stories/ltlcloud.html) by Joyce. Jealousy makes someone look upon their own life with a tint of loathing.
 * Why VR will bring back the [arcade](https://medium.com/@josh_taylor/virtual-reality-will-bring-back-the-arcade-16f3f92b52e8).
 * Do social networks reduce the [diversity](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426) of the web? I'm not sure the author is correct but it is an interesting idea.
-* Interesting Quora answer linked below:
+* Interesting Quora answer linked below. Define mastery goals, not performance ones, For difficult problems.
 
 <span class="quora-content-embed" data-name="Life-Lessons/What-are-the-best-tricks-to-keep-yourself-motivated/answer/Edmond-Lau">Read <a class="quora-content-link" href="http://www.quora.com/Life-Lessons/What-are-the-best-tricks-to-keep-yourself-motivated/answer/Edmond-Lau" data-embed="stmjsgf" data-type="answer" data-id="7415251" data-key="3f6804a06a592d7d9c564b0c2065cafd"><a href="http://www.quora.com/Edmond-Lau">Edmond Lau</a>&#039;s <a href="/Life-Lessons/What-are-the-best-tricks-to-keep-yourself-motivated#ans7415251">answer</a> to <a href="/Life-Lessons/What-are-the-best-tricks-to-keep-yourself-motivated" ref="canonical">What are the best tricks to keep yourself motivated?</a></a> on <a href="http://www.quora.com">Quora</a><script type="text/javascript" src="http://www.quora.com/widgets/content"></script></span>
