@@ -19,3 +19,10 @@ Things learned since last post:
 * Dude intentionally [gets hacked](http://fusion.net/video/271750/real-future-episode-8-hack-attack/?utm_source=nextdraft&utm_medium=email).
 * [Mother Earth, Mother Board](http://www.wired.com/1996/12/ffglass/?src=longreads)
 * When you fail at habits or procrastinate, ask [why](https://medium.com/swlh/the-i-don-t-feel-like-it-fallacy-75cc47dfd3#.tti3iqc4g) deeply.
+* Instead of self-promoting, get someone else to do it for you - [the art of bragging](http://www.theatlantic.com/magazine/archive/2016/05/how-to-boast-on-the-sly/476373/?utm_source=nextdraft&utm_medium=email).
+* [Treasure Hill](https://howwegettonext.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei-4db6dc0bf412#.ko9vnm2a5) - A Taipei slum turned art piece.
+* Adda [+](https://news.ycombinator.com/item?id=11506941) to any goo.gl or bit.ly link for analytics.
+* The media will tear Hillary down because so many need a [close race](http://www.vox.com/2016/5/5/11589262/2016-general-election-is-going-to-suck?utm_source=nextdraft&utm_medium=email).
+* [Postable](https://www.postable.com/) - card delivery service.
+* [HackerRank](https://www.producthunt.com/tech/hackerrank-jobs) - Programming problems and recruiting site.
+* More guides for using [Git](http://www.alexkras.com/19-git-tips-for-everyday-use/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) and [FlexBox](http://www.flexboxpatterns.com/home).
