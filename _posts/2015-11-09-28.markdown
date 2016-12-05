@@ -13,8 +13,8 @@ Things learned since last post:
 * [TensorFlow](http://tensorflow.org/get_started), Google's new library for machine learning.
 * Learning to center with [Flexbox froggy](http://flexboxfroggy.com/).
 * Some interesting [things](https://medium.com/@tomwhitwell/52-things-i-learned-in-2015-c5c74eed24e0#.ixs4om173):
-** Try removing the shopping cart completely from an e-commerce store if possible.
-** For emotion-driven purchases, remove the cents ($15). For logic-driven, add them ($14.95).
+	* Try removing the shopping cart completely from an e-commerce store if possible.
+	* For emotion-driven purchases, remove the cents ($15). For logic-driven, add them ($14.95).
 * The life and times of [Strider Wolf](http://apps.bostonglobe.com/graphics/2015/11/strider/?p1=BGMenu_Article).
 * Opinion piece on how chill is the enemy of [passion](https://medium.com/matter/against-chill-930dfb60a577#.nfl4rp2a2).
 * Does psychological trauma affect the [price of a home](https://read.atavist.com/the-ghosts-of-pickering-trail)?
