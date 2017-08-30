@@ -20,3 +20,8 @@ date:   2017-06-01
 * [Goldman](https://www.rollingstone.com/politics/news/the-great-american-bubble-machine-20100405) the bubble machine - next bubble is cap-and-trade (2010).
 * [Wait but Why](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) on AI- ASI (artificial super intelligence) goals and IQ are orthogonal. Fermi paradox leads to camp 1 conclusion, or at least artificial and not biological aliens. Story idea: World is primarily ruled by one ASI with another rebel ASI on the fringes.
 * [Course](http://course.fast.ai/) on machine learning.
+* [Time is money!](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/07/24/one-surprising-way-money-can-buy-happiness-according-to-scientists/?utm_source=nextdraft&utm_medium=email)
+* [Perfume writer](http://www.chandlerburr.com/articles.htm) Chandler Burr
+* SF couple [buys a street](http://www.sfchronicle.com/bayarea/matier-ross/article/Rich-SF-residents-get-a-shock-Someone-bought-11738236.php?utm_source=nextdraft&utm_medium=email)
+* Expose on [Driscoll's](https://www.newyorker.com/magazine/2017/08/21/how-driscolls-reinvented-the-strawberry?utm_source=nextdraft&utm_medium=email)
+* Ethereum founder discusses [token distribution strategies](http://vitalik.ca/general/2017/06/09/sales.html). His reddit post getting [up to speed](https://www.reddit.com/r/ethereum/comments/48qx9h/so_fill_me_in_here/d0lsziz/). Guide to exchanges - [1](https://www.reddit.com/r/ethtrader/comments/6g9b1v/beginners_guide_to_exchanges_part_1/?ref=search_posts) [2](https://www.reddit.com/r/ethtrader/comments/6jsxkh/beginners_guide_to_exchanges_part_2/)
