@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "9/1/18"
+date:   2018-09-01
+---
+
+* [Antibiotics](https://www.wired.co.uk/article/bacteria-cave-antibiotics-antimicrobial-resistance?utm_source=nextdraft&utm_medium=email) not becoming ineffective from overuse, but from use of cleaning agents, toothpaste, etc.
+* A profile of [cruise ship entertainers](https://www.esquire.com/entertainment/a22801333/cruise-entertainers/?utm_source=nextdraft&utm_medium=email)
+* Lego searching for [environmentally friendly plastic](https://www.nytimes.com/2018/08/31/business/energy-environment/lego-plastic-denmark-environment-toys.html?utm_source=nextdraft&utm_medium=email)
+* Sun Microsystems cofounder Vinod Khosla tries to protect property rights on principle from his [purple lair](https://www.nytimes.com/2018/08/30/technology/vinod-khosla-beach.html?utm_source=nextdraft&utm_medium=email). Also recommends book Lying by Sam Harris
+* [History](https://www.theatlantic.com/national/archive/2014/12/how-watermelons-became-a-racist-trope/383529/) of watermelon racist stereotype: it emerged after the Civil War when free black people grew, ate, and sold watermelons, and in doing so made the fruit a symbol of their freedom. Southern whites, threatened by blacks’ newfound freedom, responded by making the fruit a symbol of black people’s perceived uncleanliness, laziness, childishness, and unwanted public presence. 
+* [Market segmentation](https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/) explained
+	- Don't ever offer an Unlimited price tier
+	- List prices on your website, don't allow reverse segmenting to happen
+* [David](http://www.slate.com/articles/news_and_politics/assessment/2011/04/david_foster_wallace.html)[Foster](https://www.rollingstone.com/politics/politics-features/david-foster-wallace-on-john-mccain-the-weasel-twelve-monkeys-and-the-shrub-194272/) [Wallace](https://books.google.ca/books?id=eMQIeR9m2WgC&lpg=PA137&ots=51yjcAmLaO&dq=The%20Lost%20Years%20%26%20Last%20Days%20of%20David%20Foster%20Wallace&pg=PA148#v=onepage&q&f=false)
+* [Science of sleep](https://www.nationalgeographic.com/magazine/2018/08/science-of-sleep/)
+* [Coding zines](https://jvns.ca/zines/) and [interactive explanations](https://ncase.me/)
+* Why you should [throw your children's art away](https://www.theatlantic.com/family/archive/2018/09/throw-your-childrens-art-away/570379/?utm_source=nextdraft&utm_medium=email)
+* [Ticketmaster](https://www.cbc.ca/news/business/a-public-relations-nightmare-ticketmaster-recruits-pros-for-secret-scalper-program-1.4828535?utm_source=nextdraft&utm_medium=email) enabling scalpers to succeed with its [TradeDesk](https://tradedesk.ticketmaster.com/) platform.
+* Effect of a $15 minimum wage in [California](http://irle.berkeley.edu/effects-of-a-15-minimum-wage-in-california-and-fresno/) - no sources cited
