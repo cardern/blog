@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "2022"
+title:  "01/01/22"
 date:   2022-02-04
 ---
 
-* Autobiography of a famous [Instagrammer](https://www.thecut.com/2019/09/who-would-tavi-gevinson-be-without-instagram.html?utm_source=join1440&utm_medium=email&utm_placement=longreads)
 * Attention to detail is [necessary](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) to achieve most things.
 * Tim Ferris favorite episodes: 353, 338, 329, 356, 415
 * Song Exploder favorite episodes: The Books, The Album Leaf
