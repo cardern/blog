@@ -1,50 +1,9 @@
 ---
 layout: post
-title:  "2023"
-date:   2023-01-16
+title:  "2024"
+date:   2024-01-19
 ---
 
-* Anatomy of a [good conversation](https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs)
-* Pick a [monster](https://ckarchive.com/b/5quvh7hvz8xpq), not an enemy.
-* How to make friends as an [adult](https://psyche.co/guides/how-to-make-new-friends-when-youre-busy-with-adulthood).
-* Try marinating meat with [mayo](https://www.nytimes.com/2019/10/28/dining/mayo-meat-marinade.html).
-* How to [forgive yourself](https://psyche.co/guides/how-to-forgive-yourself-and-move-past-a-hurtful-mistake).
-* Advice on [managing people](https://klinger.io/posts/managing-people-%F0%9F%A4%AF?utm_source=substack&utm_medium=email).
-* Some thoughts on the evolution of [boundary setting](https://www.bustle.com/wellness/is-therapy-speak-making-us-selfish).
-* Improving indoor [air quality](https://christian.gen.co/air/)
-* "The life of sensation is the life of greed; it requires more and more. The life of the spirit requires less and less; time is ample and its passage sweet." - [link](https://www.themarginalian.org/2013/06/07/annie-dillard-the-writing-life-1/)
-* You can't reach the brain through the [ears](https://www.experimental-history.com/p/you-cant-reach-the-brain-through?utm_source=substack&utm_medium=email)
-* The scents of [history](https://the-past.com/feature/scent-back-in-time-how-ancient-odours-can-bring-the-past-to-life/?utm_source=join1440&utm_medium=emai) at [AromaPrime](https://aromaprime.com/)
-* Avoid the creation of [scar tissue](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2?utm_source=substack&utm_medium=email)
-* [Satisficing vs maximizing](https://longform.asmartbear.com/maximizing/?utm_source=substack&utm_medium=email) and a method for making [important decisions](https://longform.asmartbear.com/maximized-decision/). [Rocks, pebbles sand](https://longform.asmartbear.com/rocks-pebbles-sand/?utm_source=substack&utm_medium=email).
-* [100 tips for a better life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
-* Psychedelic [first responders](https://www.wired.com/story/meet-the-psychedelic-booms-first-responders/?utm_source=substack&utm_medium=email) - [Tripsit.me](http://tripsit.me/)
-* [Failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/?utm_source=substack&utm_medium=email) is a habit
-* [The bad patient](https://www.thedriftmag.com/the-bad-patient/?utm_source=join1440&utm_medium=email) - "As the only person in a position to testify about how he or she feels, the patient is the victim, neutral witness, and scene of the crime."
-* By [limiting](https://ckarchive.com/b/27u2hohv3m877b3h4) work to 4 hours per day, will give you more agency and cause you to enjoy the work more.
-* [Questions](https://guzey.com/questions/)
-* Reality is [very weird](https://slimemoldtimemold.com/2022/01/11/reality-is-very-weird-and-you-need-to-be-prepared-for-that/?utm_source=substack&utm_medium=email)
-* [Acceptance and Commitment Therapy](https://every.to/no-small-plans/how-to-do-hard-things?utm_source=substack&utm_medium=email)
-* Admiral Stockdale - "You must never confuse faith that you will prevail in the end, which you can never afford to lose, with the discipline of confronting the most brutal facts of your current reality, whatever they may be."
-* Sam Altman - [How to be successful](https://blog.samaltman.com/how-to-be-successful)
-* [How to communicate](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/?utm_source=substack&utm_medium=email) when trust is low
-* [Monotype](https://thehustle.co/where-do-fonts-come-from/?utm_source=join1440&utm_medium=email&utm_placement=newsletter) is monopolizing the font industry
-* [Doing great work](http://paulgraham.com/greatwork.html) - "It will probably be harder to start working than to keep working. You'll often have to trick yourself to get over that initial threshold. Don't worry about this; it's the nature of work, not a flaw in your character. Work has a sort of activation energy, both per day and per project. And since this threshold is fake in the sense that it's higher than the energy required to keep going, it's ok to tell yourself a lie of corresponding magnitude to get over it."
-* [Healthcare in India](https://www.outofpocket.health/p/healthcare-in-india)
-* Andrew Wilkinson -[routines](https://www.routines.club/routine/andrew-wilkinsons-daily-and-business-routine)
-* Simple Fragrance Method Boosts Cognitive Capacity by [226%](https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/?utm_source=substack&utm_medium=email)
-* [Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem?utm_source=substack&utm_medium=email)
-* Book rec: [Good Strategy, Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - A strategy is a high-level plan to achieve one or more goals under conditions of uncertainty, designed through recognizing the challenge (diagnosis), setting a direction to overcome it (guiding policy), and detailing steps to implement the policy (coherent actions) - [link](https://www.notboring.co/p/in-defense-of-strategy?utm_source=substack&utm_medium=email).
-* Try using the [ladder of inference](https://www.mindtools.com/aipz4vt/the-ladder-of-inference) to reach a shared conclusion without conflict.
-* [The Work](https://thework.com/2017/10/four-liberating-questions/) by Byron Katie to examine your beliefs.
-* [Consumers say they want sustainability. So why don’t their wallets show it?](https://www.fastcompany.com/90975419/consumers-say-they-want-sustainability-so-why-dont-their-wallets-show-it?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter-20230211) 
-* [Halfsies](https://brilliant.org/challenges/halfsies) - A game of shapes and strategies.
-* [Gates Notes](https://www.gatesnotes.com/AI-agents?utm_source=substack&utm_medium=email) on AI and introducing [GPTs](https://openai.com/blog/introducing-gpts?utm_source=substack&utm_medium=email)
-* Deep sea [treasure hunters](https://www.bloomberg.com/features/2023-deep-sea-treasure-hunter-hedge-funds)
-* Using AI to [map scents](https://www.osmo.ai/blog/science-paper-shows-osmo-ai-passes-the-sniff-test?utm_source=substack&utm_medium=email)
-* The carbon footprint of generating AI images is [not good](https://www.engadget.com/researchers-quantify-the-carbon-footprint-of-generating-ai-images-173538174.html?utm_source=substack&utm_medium=email)
-* Alternatives to [nuclear power](https://theconversation.com/4-east-african-countries-are-going-for-nuclear-power-why-this-is-a-bad-idea-218046?utm_source=substack&utm_medium=email) in East Africa
-* Armamentarium - a collection of resources available for a certain purpose.
 * Free [murder mysteries](https://h31murdermysteryparties.wordpress.com/)!
 * [Shein](https://www.marketplacepulse.com/articles/shein-forces-amazon-to-lower-seller-fees?utm_source=substack&utm_medium=email) competing with Amazon in fast fashion.
 * How to scale [nuclear power](https://a16z.com/how-to-scale-nuclear-power/?utm_source=substack&utm_medium=email).
