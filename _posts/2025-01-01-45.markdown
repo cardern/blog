@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2025"
+date:   2025-01-01
+---
+
+* Interesting AI articles - [1](https://timkellogg.me/blog/2025/01/25/r1?utm_source=substack&utm_medium=email), [2](https://simonwillison.net/2025/Jan/27/deepseek-nvidia/)
+* [Career advice](https://caseyhandmer.wordpress.com/2025/02/04/stuff-you-should-have-been-taught-in-college-but-werent/?ref=thediff.co) I generally agree with
+* Be thoughtful with [routine creation](https://thewhippet.org/185-shielded-and-flowerlike/?utm_source=substack&utm_medium=email#what-is-a-morningevening-routine-actually-for)
+* [Climate careers](https://climatesolutions-careers.org/)
+* 50 years of [travel tips](https://kk.org/thetechnium/50-years-of-travel-tips/?utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bc055d78644b3a9615ca)
+* The things we take for [granted](https://www.thenewatlantis.com/publications/we-live-like-royalty-and-dont-know-it)
+* Developing a [Deep Research query](https://threadreaderapp.com/thread/1890745551995424987.html?utm_source=substack&utm_medium=email)
+* [Cash balance plans](https://www.wsj.com/personal-finance/retirement/cash-balance-plans-retirement-high-earners-71bfed2e?st=koZvXj&mod=1440&user_id=66c4bc055d78644b3a9615ca) as supplement to 401k
+* Texas water supply and demand [explained](https://www.texastribune.org/2025/03/13/texas-water-explained-supply-demand/)
+* I have a similar [note system](https://karpathy.bearblog.dev/the-append-and-review-note/?utm_source=substack&utm_medium=email).
+* [AI evaluation](https://www.apolloresearch.ai/blog/claude-sonnet-37-often-knows-when-its-in-alignment-evaluations)
+* Finding [location data](https://timsh.org/tracking-myself-down-through-in-app-ads/?utm_source=substack&utm_medium=email)
+* 5 different [conversation types](https://www.clearerthinking.org/post/how-to-create-meaningful-connections-by-asking-great-questions)
+* How to [validate others](https://psyche.co/guides/learn-to-validate-others-and-transform-your-relationships)

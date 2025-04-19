@@ -41,7 +41,58 @@ date:   2024-01-19
 * Are you hunting [antelope or field mice](https://tim.blog/2024/05/02/are-you-hunting-antelope-or-field-mice/)?
 * [Anthropic](https://www.anthropic.com/research/mapping-mind-language-model) tries to explain how LLM works.
 * Take ownership of your [future self](https://hbr.org/2020/08/take-ownership-of-your-future-self).
-
-
-
-
+* Simple Solution to the Problem of [False-Positive Publications](https://journals.sagepub.com/doi/full/10.1177/0956797611417632?utm_source=substack&utm_medium=email#table2-0956797611417632).
+* [Investigate further](https://www.heroic.us/)
+* You can rationalize just about [anything](https://blog.headlandstech.com/2024/05/01/opinion-rationalizing-latency-competition-in-high-frequency-trading/?ref=thediff.co).
+* Tracking the climate crisis with [OKRs](https://speedandscale.com/tracker/)
+* Sean Ellis (Hacking Growth) recently completed a world tour and said [NuBank](https://en.wikipedia.org/wiki/Nubank) is the most interesting company he found. Incredible organic growth and deep product market understanding.
+* How VCs become [jerks](https://www.nfx.com/post/how-vcs-become-assholes)
+* Alarmist narratives about misinformation might [greatly exaggerate](https://www.conspicuouscognition.com/p/how-dangerous-is-misinformation?ref=thediff.co) its prevalence and effects.
+* Multivitamins don't seem to [extend life](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820375)
+* [Naming](https://www.brettadcock.com/articles/naming-a-company) a company
+* [One page](https://onepagelove.com/inspiration/event) Event Websites
+* 60 [AI tools](https://x.com/DevMuzzammil/status/1794355814461050913?utm_source=substack&utm_medium=email) to start an online business in 2024
+* Avoid [oxybenzone](https://www.ewg.org/news-insights/news-release/2023/05/dramatic-decline-oxybenzone-use-plummets-only-13-percent-non) in sunscreen
+* Why small annoyances can harm us more than big disruptions: the [region-beta paradox](https://psyche.co/ideas/why-small-annoyances-can-harm-us-more-than-big-disruptions?utm_source=join1440&utm_medium=email&utm_placement=newsletter)
+* Hardware for [lucid dreaming](https://x.com/PropheticAI/status/1750534355242418300)
+* "It isn’t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about."
+* "The major reason for setting goals is to compel you to become the person it takes to achieve them."
+* How to price a [data asset](https://pivotal.substack.com/p/how-to-price-a-data-asset?ref=thediff.co)
+* How to get out of the [bog](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+* [Don't put this off](https://dailydad.com/dont-put-this-off/) - take care of yourself
+* [Intensive lifestyle changes](https://www.medscape.com/viewarticle/can-intensive-lifestyle-changes-slow-or-reverse-early-2024a1000chl) often improve cognition in early Alzheimer's
+* Profile of [Palmer Luckey](https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril?ref=thediff.co)
+* Profile of [Tom Wolfe](https://www.nytimes.com/2024/08/15/books/review/tom-wolfe-radical-chic-black-panthers-leonard-bernstein.html?ref=thediff.co)
+* Profile of [Alex Karp](https://www.nytimes.com/2024/08/17/style/alex-karp-palantir.html?utm_source=substack&utm_medium=email)
+* Corrugated board grades [explained](https://www.gwp.co.uk/guides/corrugated-board-grades-explained/?utm_source=substack&utm_medium=email)
+* Thoughts on creating a [personal CRM](https://cupofzhou.com/my-ever-evolving-personal-crm/?utm_source=substack&utm_medium=email) in Airtable
+* Which utilities are [green button participants](https://explorer.missiondata.io/)?
+* [CDR Leaderboard](https://www.cdr.fyi/leaderboards)
+* [Cool website](https://terraformindustries.com/) founded by guy complaining about [NASA](https://caseyhandmer.wordpress.com/2024/10/02/sls-is-still-a-national-disgrace/)
+* Takeaways from [Outlive](https://blog.hipavel.com/2024/10/05/13107/outlive/?utm_source=substack&utm_medium=email)
+* [Sunset](https://www.sunsethq.com/) - Helps startups shut down
+* Content marketing and X presence growth [ideas](https://x.com/natiakourdadze/status/1846232485186662739)
+* Peter Thiel [class notes](https://blakemasters.tumblr.com/peter-thiels-cs183-startup)
+* How the semiconductor industry [actually works](https://www.youtube.com/watch?v=pE3KKUKXcTM)
+* [Dataset](https://github.com/iftah-og/Synthesizers-1896-2024?tab=readme-ov-file
+) of hardware synthesizers, samplers, and drum machines produced since 1896
+* Market prices are not [probabilities](https://quantian.substack.com/p/market-prices-are-not-probabilities?ref=thediff.co) of winning an election
+* Let's [terraform Nevada](https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/?utm_source=substack&utm_medium=email)?
+* Israel is the world leader in [desalination](https://unchartedterritories.tomaspueyo.com/p/is-desalination-everywhere-realistic?utm_source=substack&utm_medium=email)
+* Lessons from a first [exit](https://mtlynch.io/lessons-from-my-first-exit)
+* Climate footprint [calculator](https://carbon-calculator.climatehero.org/partners/wedonthavetime) 
+* Employee performance is closer to a [Pareto](https://substack.com/home/post/p-152140411) distribution than Gaussian. This means low performers are 3x as common as high performers.
+* [Words as weapons](https://anandsanwal.me/equity-language-education-weapons/?utm_source=substack&utm_medium=email): How equity language derails education reform 
+* [Vaccine](https://justinmares.substack.com/p/the-vaccine-question-the-next-59?publication_id=20552&r=2hku&utm_source=substack&utm_medium=email) risks and rewards - Today’s vaccine schedule was created for convenience, and doctors recommend so many shots so soon after birth primarily because they are concerned that parents won’t return for future shots. Maybe the [Swiss schedule](https://vaccine-schedule.ecdc.europa.eu/) is better
+* It does not take [much effort](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/?utm_source=substack&utm_medium=email) to be a high performer
+* Startup to watch: [Airship Industries](https://www.elidourado.com/p/airship-industries?utm_source=substack&utm_medium=email)
+* We can upgrade our [transmission lines](https://archive.is/2UByE#selection-563.40-566.0) with a new type of wire: a core made of carbon fiber, surrounded by trapezoidal pieces of aluminum. This will double electricity throughput compared to legacy steel wires.
+* 2024 [album of the year](https://www.albumoftheyear.org/lists.php?utm_source=join1440&utm_medium=email&utm_placement=newsletter) compilation
+* Lessons for a [new manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager)
+* Dwarkesh Patel's [notes on China](https://www.dwarkeshpatel.com/p/notes-on-china?ref=thediff.co)
+* Large solar project in [Arizona](https://interestingengineering.com/energy/arizona-gets-biggest-solar-project)
+* An interview with [Drew Houston](https://www.lennysnewsletter.com/p/behind-the-founder-drew-houston-dropbox?utm_source=substack&utm_medium=email), the founder of Dropbox
+The best [tacit knowledge](https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject?utm_source=substack&utm_medium=email) videos on every subject
+* Having better [conversations](https://soundcloud.com/misha-glouberman/misha-glouberman-recorded-coaching-sessions?utm_source=substack&utm_medium=email)
+* How to make AI think like a [focus group](https://every.to/also-true-for-humans/how-i-made-ai-think-like-a-focus-group?utm_source=substack&utm_medium=email)
+* The impact of BCL6 on [maintaining muscle mass](https://newatlas.com/diet-nutrition/protein-fat-muscle-glp1/?utm_source=substack&utm_medium=email).
