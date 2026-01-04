@@ -4,6 +4,7 @@ title:  "2025"
 date:   2025-01-01
 ---
 
+* [Yak shaving](https://en.wiktionary.org/wiki/yak_shaving) - A less useful activity done consciously or subconsciously to procrastinate about a larger but more useful task. Or, any apparently useless activity which, by allowing one to overcome intermediate difficulties, allows one to solve a larger problem. 
 * Interesting AI articles - [1](https://timkellogg.me/blog/2025/01/25/r1?utm_source=substack&utm_medium=email), [2](https://simonwillison.net/2025/Jan/27/deepseek-nvidia/)
 * [Career advice](https://caseyhandmer.wordpress.com/2025/02/04/stuff-you-should-have-been-taught-in-college-but-werent/?ref=thediff.co) I generally agree with
 * Be thoughtful with [routine creation](https://thewhippet.org/185-shielded-and-flowerlike/?utm_source=substack&utm_medium=email#what-is-a-morningevening-routine-actually-for)
@@ -18,3 +19,37 @@ date:   2025-01-01
 * Finding [location data](https://timsh.org/tracking-myself-down-through-in-app-ads/?utm_source=substack&utm_medium=email)
 * 5 different [conversation types](https://www.clearerthinking.org/post/how-to-create-meaningful-connections-by-asking-great-questions)
 * How to [validate others](https://psyche.co/guides/learn-to-validate-others-and-transform-your-relationships)
+* We are [significantly faster](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/?utm_source=substack&utm_medium=email) at receiving data (reading, listening) than sending it (writing, speaking). Also, author thinks that AI should function as an always-on command meta-layer that spans across all tools at the OS level.
+* [Questions to ask](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/) during disagreement - “Tell me about other strongly-held positions you’ve changed as the result of a discussion like this one.” is a direct way to start a conversation about the argument you’re proposing to have. And “What sort of information would make it likely you could see this in a different way?”
+* Profile of [Jack Tramiel](https://every.to/the-crazy-ones/the-first-king-of-home-computing) - Inventor of the mass market computer at Commodore
+* Stop [protecting yourself](https://www.theatlantic.com/ideas/archive/2025/04/know-yourself-socrates/682458/?), embrace a change narrative, and get started.
+* Build [slack](https://bigthink.com/the-long-game/slack-the-key-to-resilience-in-a-world-that-keeps-breaking/) into the system - something we have done.
+* Unquestioned traditions may become [baggage](https://alexcristea.substack.com/p/thats-how-weve-always-done-things). Make your thinking visible, involve the team, and document the trade-offs.
+* The [ultimate employee](https://auren.substack.com/p/ultimate-employee-the-one-that-is)
+* Data and [defensibility](https://pivotal.substack.com/p/data-and-defensibility?ref=thediff.co)
+*  After Stanford physician Bryant Lin was diagnosed with stage 4 lung cancer, he invited students to [follow along](https://stanfordmag.org/contents/course-of-treatment-lin).
+* How to [stay curious](https://bigthink.com/smart-skills/how-curiosity-rewires-your-brain-for-change)
+* The [deathbed fallacy](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
+* [The Grant Study](https://en.wikipedia.org/wiki/Grant_Study) from happiness research - a stable income, focus on relationships and experiences rather than stuff, practicing acceptance, and small things like short commute times make you happier.
+* [Sol Price](https://www.blinkist.com/en/books/sol-price-en) - the grandfather of American retail.
+* Are you stuck in [movie logic](https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic)?
+* [Pompeii](https://www.popsci.com/science/who-lived-in-pompeii-after-volcano/): “In the enthusiasm to reach the [excavation] levels of 79 [CE], with wonderfully preserved frescoes and furnishings still intact, the faint traces of the site’s reoccupation were literally removed and often swept away without any documentation. This phenomenon should lead us to a broader reflection on the archaeological unconscious, on everything that is repressed or obliterated or remains hidden, in the shadow of other seemingly more important things.”
+* How to dig for music without [Spotify](https://pitchfork.com/thepitch/how-to-dig-for-music-without-spotify).
+* How [off-grid solar microgrids](https://www.offgridai.us/) can power the AI race
+* Stop [solving your team's problems](https://hbr.org/2025/07/stop-solving-your-teams-problems-for-them).
+Questions to ask: What have you tried? 
+What — or who — is getting in the way of tackling this? 
+What support do you need? 
+What would you do if you were in my seat? 
+Thank you for bringing this to my attention. Is there anything else I should know?
+* [Self sabotage](https://newatlas.com/health-wellbeing/self-sabotage-punishment-learning-harmful-behavior)
+* Is it [wrong](https://psyche.co/ideas/is-it-wrong-to-be-good-friends-with-a-bad-person) to be friends with a bad person?
+* The [intensity](https://www.wsj.com/business/entrepreneurship/artificial-intelligence-startup-founders-bc730406?st=P7mAPC) of AI founders in the Bay Area
+* The negative effects of [lead](https://worksinprogress.co/issue/the-end-of-lead/)
+* How to increase [neuroplasticity](https://www.insidehook.com/wellness/increase-neuroplasticity)
+* [Data transformations](https://www.improvingagents.com/blog/best-input-data-format-for-llms) can impact LLM accuracy.
+* How to build a [memory palace](https://psyche.co/guides/how-to-build-a-memory-palace-to-store-and-revisit-information)
+* A profile of [Indian scammers]
+* The art of [stability](https://peterattiamd.com/outlive/videos/) with Beth Lewis ([Link 1](https://www.reddit.com/r/PeterAttia/comments/1io32do/what_happened_to_episode_131_beth_lewis_the_art/)) ([Link 2](https://www.reddit.com/r/PeterAttia/comments/1dubvq5/how_to_find_a_beth_lewis/))
+* Summary of book [An Elegant Puzzle](https://www.guidefari.com/elegant-puzzle/) on managing high performing software teams
+* How to [leave](https://time.com/7338413/how-to-say-goodbye) an event
